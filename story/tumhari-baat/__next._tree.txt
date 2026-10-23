@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/0_3-3uuimmtez.css","style"]
+:HL["/_next/static/media/fraunces_latin-s.p.1v4l5w6-86t-v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/manrope_latin-s.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"chapter","t":"d","k":"tumhari-baat","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"story","h":131168,"c":"$Q2"}]]
+0:{"b":"TxPlcDjjG30ktNkPZS_Yn","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
